@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { BrowserRouter as Router, Route} from "react-router-dom";
+import { HashRouter as Router, Route} from "react-router-dom";
 import 'font-awesome/css/font-awesome.min.css'
 import {GlobalStyle} from './Style.js'
 import IntroPage from './IntroPage'
@@ -41,7 +41,7 @@ const exercises = [
 function App() {
   const [exerciseDuration, setExerciseDuration] = useState(null);
   return (
-    <Router basename="react-fitness-app">
+    <Router>
       <GlobalStyle></GlobalStyle>
         <Route exact path="/" render={() => <IntroPage exercises={exercises} exerciseDuration={exerciseDuration} setExerciseDuration={setExerciseDuration} />} />
         {exercises.map(exercise => 
