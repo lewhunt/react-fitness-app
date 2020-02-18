@@ -41,7 +41,7 @@ const exercises = [
 function App() {
   const [exerciseDuration, setExerciseDuration] = useState(null);
   return (
-    <Router>
+    <Router basename='/'>
       <GlobalStyle></GlobalStyle>
         <Route exact path="/" render={() => <IntroPage exercises={exercises} exerciseDuration={exerciseDuration} setExerciseDuration={setExerciseDuration} />} />
         {exercises.map(exercise => 
