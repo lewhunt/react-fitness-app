@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/static/js/main.d895d10a.chunk.js",
+    "main.js.map": "/static/js/main.d895d10a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cd17ffc6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cd17ffc6.js.map",
+    "static/css/2.fa349ff9.chunk.css": "/static/css/2.fa349ff9.chunk.css",
+    "static/js/2.912eb46b.chunk.js": "/static/js/2.912eb46b.chunk.js",
+    "static/js/2.912eb46b.chunk.js.map": "/static/js/2.912eb46b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5aeb53a20284ac2d1ecd4f327e4e9c8c.js": "/precache-manifest.5aeb53a20284ac2d1ecd4f327e4e9c8c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.fa349ff9.chunk.css.map": "/static/css/2.fa349ff9.chunk.css.map",
+    "static/js/2.912eb46b.chunk.js.LICENSE.txt": "/static/js/2.912eb46b.chunk.js.LICENSE.txt",
+    "static/media/crunches.png": "/static/media/crunches.2c3124e2.png",
+    "static/media/crunches.mp4": "/static/media/crunches.7407f51a.mp4",
+    "static/media/curls.mp4": "/static/media/curls.ab0fb82c.mp4",
+    "static/media/curls.png": "/static/media/curls.d54ecf1d.png",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/intro.mp4": "/static/media/intro.ef186b09.mp4",
+    "static/media/squats.mp4": "/static/media/squats.225011ad.mp4",
+    "static/media/squats.png": "/static/media/squats.60b9197c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd17ffc6.js",
+    "static/css/2.fa349ff9.chunk.css",
+    "static/js/2.912eb46b.chunk.js",
+    "static/js/main.d895d10a.chunk.js"
+  ]
+}
