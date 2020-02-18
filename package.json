@@ -3,6 +3,7 @@
   "description": "An interactive fitness app that makes extensive use of the react-video-looper component for conditional looping of exercise videos",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://lewhunt.github.io/react-fitness-app",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
