@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/react-fitness-app/static/js/main.d04e7d2b.chunk.js",
-    "main.js.map": "/react-fitness-app/static/js/main.d04e7d2b.chunk.js.map",
+    "main.js": "/react-fitness-app/static/js/main.ad8f98d3.chunk.js",
+    "main.js.map": "/react-fitness-app/static/js/main.ad8f98d3.chunk.js.map",
     "runtime-main.js": "/react-fitness-app/static/js/runtime-main.8cb00c2f.js",
     "runtime-main.js.map": "/react-fitness-app/static/js/runtime-main.8cb00c2f.js.map",
     "static/css/2.b73d3493.chunk.css": "/react-fitness-app/static/css/2.b73d3493.chunk.css",
     "static/js/2.ce25f5f9.chunk.js": "/react-fitness-app/static/js/2.ce25f5f9.chunk.js",
     "static/js/2.ce25f5f9.chunk.js.map": "/react-fitness-app/static/js/2.ce25f5f9.chunk.js.map",
     "index.html": "/react-fitness-app/index.html",
-    "precache-manifest.7ec61603b2096ddc933c8d695290ce4e.js": "/react-fitness-app/precache-manifest.7ec61603b2096ddc933c8d695290ce4e.js",
+    "precache-manifest.4b7fefa08662a3d4d983a5bf063dc147.js": "/react-fitness-app/precache-manifest.4b7fefa08662a3d4d983a5bf063dc147.js",
     "service-worker.js": "/react-fitness-app/service-worker.js",
     "static/css/2.b73d3493.chunk.css.map": "/react-fitness-app/static/css/2.b73d3493.chunk.css.map",
     "static/js/2.ce25f5f9.chunk.js.LICENSE.txt": "/react-fitness-app/static/js/2.ce25f5f9.chunk.js.LICENSE.txt",
     "static/media/crunches.png": "/react-fitness-app/static/media/crunches.2c3124e2.png",
-    "static/media/crunches.mp4": "/react-fitness-app/static/media/crunches.7407f51a.mp4",
+    "static/media/crunches.mp4": "/react-fitness-app/static/media/crunches.ba96a4e0.mp4",
     "static/media/curls.mp4": "/react-fitness-app/static/media/curls.ab0fb82c.mp4",
     "static/media/curls.png": "/react-fitness-app/static/media/curls.d54ecf1d.png",
     "static/media/font-awesome.min.css": "/react-fitness-app/static/media/fontawesome-webfont.fee66e71.woff",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.8cb00c2f.js",
     "static/css/2.b73d3493.chunk.css",
     "static/js/2.ce25f5f9.chunk.js",
-    "static/js/main.d04e7d2b.chunk.js"
+    "static/js/main.ad8f98d3.chunk.js"
   ]
 }
