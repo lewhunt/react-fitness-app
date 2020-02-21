@@ -145,7 +145,7 @@ export const StyledButtonGroup = styled.div`
     padding: .3em .85em;
     display: inline-block;
     text-align: center;
-    font-size: 0.8em;
+    font-size: 0.9em;
     border-radius: 0;
     border: none;
     border-right: 1px solid silver;
