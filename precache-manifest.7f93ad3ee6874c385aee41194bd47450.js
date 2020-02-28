@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb655565f16b8dc48cf0fe733d668278",
+    "revision": "510436d4a28f64a4d9cb8d52cf75f071",
     "url": "/react-fitness-app/index.html"
   },
   {
