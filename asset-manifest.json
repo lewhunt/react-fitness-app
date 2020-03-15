@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/react-fitness-app/static/js/main.ad8f98d3.chunk.js",
-    "main.js.map": "/react-fitness-app/static/js/main.ad8f98d3.chunk.js.map",
-    "runtime-main.js": "/react-fitness-app/static/js/runtime-main.8cb00c2f.js",
-    "runtime-main.js.map": "/react-fitness-app/static/js/runtime-main.8cb00c2f.js.map",
-    "static/css/2.b73d3493.chunk.css": "/react-fitness-app/static/css/2.b73d3493.chunk.css",
-    "static/js/2.ce25f5f9.chunk.js": "/react-fitness-app/static/js/2.ce25f5f9.chunk.js",
-    "static/js/2.ce25f5f9.chunk.js.map": "/react-fitness-app/static/js/2.ce25f5f9.chunk.js.map",
+    "main.js": "/react-fitness-app/static/js/main.e90759f3.chunk.js",
+    "main.js.map": "/react-fitness-app/static/js/main.e90759f3.chunk.js.map",
+    "runtime-main.js": "/react-fitness-app/static/js/runtime-main.6e4e1b83.js",
+    "runtime-main.js.map": "/react-fitness-app/static/js/runtime-main.6e4e1b83.js.map",
+    "static/css/2.2a0ccc9d.chunk.css": "/react-fitness-app/static/css/2.2a0ccc9d.chunk.css",
+    "static/js/2.3f41582b.chunk.js": "/react-fitness-app/static/js/2.3f41582b.chunk.js",
+    "static/js/2.3f41582b.chunk.js.map": "/react-fitness-app/static/js/2.3f41582b.chunk.js.map",
     "index.html": "/react-fitness-app/index.html",
-    "precache-manifest.7f93ad3ee6874c385aee41194bd47450.js": "/react-fitness-app/precache-manifest.7f93ad3ee6874c385aee41194bd47450.js",
+    "precache-manifest.1b1721d38f218472a78cb3c2e48d6b4d.js": "/react-fitness-app/precache-manifest.1b1721d38f218472a78cb3c2e48d6b4d.js",
     "service-worker.js": "/react-fitness-app/service-worker.js",
-    "static/css/2.b73d3493.chunk.css.map": "/react-fitness-app/static/css/2.b73d3493.chunk.css.map",
-    "static/js/2.ce25f5f9.chunk.js.LICENSE.txt": "/react-fitness-app/static/js/2.ce25f5f9.chunk.js.LICENSE.txt",
+    "static/css/2.2a0ccc9d.chunk.css.map": "/react-fitness-app/static/css/2.2a0ccc9d.chunk.css.map",
+    "static/js/2.3f41582b.chunk.js.LICENSE.txt": "/react-fitness-app/static/js/2.3f41582b.chunk.js.LICENSE.txt",
     "static/media/crunches.png": "/react-fitness-app/static/media/crunches.2c3124e2.png",
     "static/media/crunches.mp4": "/react-fitness-app/static/media/crunches.ba96a4e0.mp4",
     "static/media/curls.mp4": "/react-fitness-app/static/media/curls.ab0fb82c.mp4",
@@ -22,9 +22,9 @@
     "static/media/squats.png": "/react-fitness-app/static/media/squats.60b9197c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8cb00c2f.js",
-    "static/css/2.b73d3493.chunk.css",
-    "static/js/2.ce25f5f9.chunk.js",
-    "static/js/main.ad8f98d3.chunk.js"
+    "static/js/runtime-main.6e4e1b83.js",
+    "static/css/2.2a0ccc9d.chunk.css",
+    "static/js/2.3f41582b.chunk.js",
+    "static/js/main.e90759f3.chunk.js"
   ]
 }
