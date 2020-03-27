@@ -8,3 +8,4 @@ An interactive fitness app that makes extensive use of the react-video-looper co
 The user can choose an exercise type and duration, then the app starts playback of the exercise routine and proceeds to loop through a configurable amount of exercise reps.
 
 For more information about the reusable react-video-looper component that powers this app [check out the repo here](https://github.com/lewhunt/react-video-looper).
+
