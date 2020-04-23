@@ -23,10 +23,10 @@ function ExerciseHeader() {
       <StyledHeader>
         <nav>
           <span>
-              <NavLink to="/"><i className="fa fa-chevron-circle-left fa-2x"></i></NavLink>
+              <NavLink to="/"><i className="fa fa-chevron-circle-left fa-3x"></i></NavLink>
           </span>
           <ul>
-            <li><a href="https://github.com/lewhunt/react-video-looper"><i className="fa fa-github fa-2x"></i></a></li>
+            <li><a href="https://github.com/lewhunt/react-fitness-app"><i className="fa fa-github fa-3x"><i className="fa fa-heart"></i></i></a></li>
           </ul>
       </nav>
     </StyledHeader>

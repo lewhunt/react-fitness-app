@@ -41,6 +41,16 @@ export const StyledHeader = styled.header`
       text-decoration:none;
       padding: .3em 1em;
       display:block;
+      i {
+        position: relative;
+      }
+      .fa-star, .fa-heart {
+        position: absolute;
+        color: red;
+        top:0;
+        right:-6px;
+        font-size:18px;
+      }
     }
     span {
       color: silver;
@@ -51,7 +61,6 @@ export const StyledHeader = styled.header`
         padding: .15em 0;
         margin-left: 1.25em; 
         margin-top: -0.5em;
-        font-size: .85em;
         border-top: 1px solid rgba(255,255,255,0.5);  
         border-bottom: 1px solid rgba(255,255,255,0.5);  
         text-transform: uppercase;
