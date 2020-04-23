@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/react-fitness-app/static/js/main.4589a1a7.chunk.js",
-    "main.js.map": "/react-fitness-app/static/js/main.4589a1a7.chunk.js.map",
+    "main.js": "/react-fitness-app/static/js/main.a4b87d22.chunk.js",
+    "main.js.map": "/react-fitness-app/static/js/main.a4b87d22.chunk.js.map",
     "runtime-main.js": "/react-fitness-app/static/js/runtime-main.15d7783b.js",
     "runtime-main.js.map": "/react-fitness-app/static/js/runtime-main.15d7783b.js.map",
     "static/css/2.2a0ccc9d.chunk.css": "/react-fitness-app/static/css/2.2a0ccc9d.chunk.css",
     "static/js/2.b1e9dfbb.chunk.js": "/react-fitness-app/static/js/2.b1e9dfbb.chunk.js",
     "static/js/2.b1e9dfbb.chunk.js.map": "/react-fitness-app/static/js/2.b1e9dfbb.chunk.js.map",
     "index.html": "/react-fitness-app/index.html",
-    "precache-manifest.e615a8e9f952d812dec0bab33a276a53.js": "/react-fitness-app/precache-manifest.e615a8e9f952d812dec0bab33a276a53.js",
+    "precache-manifest.13cce58c0dd45f04485548d4f09a7ad9.js": "/react-fitness-app/precache-manifest.13cce58c0dd45f04485548d4f09a7ad9.js",
     "service-worker.js": "/react-fitness-app/service-worker.js",
     "static/css/2.2a0ccc9d.chunk.css.map": "/react-fitness-app/static/css/2.2a0ccc9d.chunk.css.map",
     "static/js/2.b1e9dfbb.chunk.js.LICENSE.txt": "/react-fitness-app/static/js/2.b1e9dfbb.chunk.js.LICENSE.txt",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.15d7783b.js",
     "static/css/2.2a0ccc9d.chunk.css",
     "static/js/2.b1e9dfbb.chunk.js",
-    "static/js/main.4589a1a7.chunk.js"
+    "static/js/main.a4b87d22.chunk.js"
   ]
 }
