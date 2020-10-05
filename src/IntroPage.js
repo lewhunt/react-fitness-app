@@ -26,7 +26,7 @@ export default function IntroPage(props) {
         <nav>
           <span className='logo'>React <b>Fitness</b> App</span>
           <ul>
-            <li><a href="https://github.com/lewhunt/react-video-looper"><i className="fa fa-github fa-3x"><i className="fa fa-heart"></i></i></a></li>
+            <li><a href="https://github.com/lewhunt/react-video-looper"><i className="fa fa-github fa-3x"></i></a></li>
           </ul>
         </nav>
     </StyledHeader>
