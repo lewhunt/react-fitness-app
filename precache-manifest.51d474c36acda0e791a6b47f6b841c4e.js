@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2e50d36d3c1fb6d19daccd159c6d986f",
+    "revision": "20e37bb683ba5a5de1a148e346ab1f8c",
     "url": "/react-fitness-app/index.html"
   },
   {
-    "revision": "ca35a25fc57419ced598",
-    "url": "/react-fitness-app/static/css/2.2a0ccc9d.chunk.css"
+    "revision": "58c613b5f6f094257cee",
+    "url": "/react-fitness-app/static/css/2.b73d3493.chunk.css"
   },
   {
-    "revision": "ca35a25fc57419ced598",
-    "url": "/react-fitness-app/static/js/2.31d7c0ba.chunk.js"
+    "revision": "58c613b5f6f094257cee",
+    "url": "/react-fitness-app/static/js/2.fe17b1ef.chunk.js"
   },
   {
     "revision": "216e537bacc64f9dbaabd26649a9ab95",
-    "url": "/react-fitness-app/static/js/2.31d7c0ba.chunk.js.LICENSE.txt"
+    "url": "/react-fitness-app/static/js/2.fe17b1ef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "56221baf62d20333932d",
-    "url": "/react-fitness-app/static/js/main.523caf4c.chunk.js"
+    "revision": "a91736ec3646ebbb8f5d",
+    "url": "/react-fitness-app/static/js/main.03d494b8.chunk.js"
   },
   {
-    "revision": "acc6a330136a0c23b844",
-    "url": "/react-fitness-app/static/js/runtime-main.3bea98c0.js"
+    "revision": "a769ce0a4194cd9599fe",
+    "url": "/react-fitness-app/static/js/runtime-main.a7514f07.js"
   },
   {
     "revision": "2c3124e234e1ca30961ade8d71adda4d",
